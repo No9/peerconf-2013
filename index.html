@@ -36,14 +36,75 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
+				    <h3>https://www.github.com/No9</h3>
 					<h3>@antonwhalley</h3>
-					<h3>https://www.github.com/No9</h3>
 					<img src="images/logoBig.gif"/>
 				</section>
+				
 				<section>
 					<h2>Peer to Peer in Production</h2>
-					<img src="images/TurtleField.jpg"/>
+					<img src="images/beehive.jpg"/>
+				</section>
+				
+				<section>
+					<h2>Cinema Content Distribution</h2>
+					<br />
+						<ul>
+						 <li>Content is adverts and films</li>
+						 <li>Traditionally couriers with DVDs</li>
+						 <li>12000+ machines can be in a distribution network</li>
+						 <li>Hybrid network topology  </li>
+						 <li>Large Files (> 1Gb)</li>
+					    </ul>
+				</section>
+				
+				<section>
+					<h2>Baseline Solution</h2>
+					<br/>
+					<ul>
+						<li>Bit Torrent to parse file and seed network</li>
+						<li>Content metadata(Torrent Descriptor) replication provided by CRDT (Commutative Replicated Data Types)</li>
+						<li>Management UI provided by a node.js,express and seneca</li>
+					</ul>
+				</section>
+				
+				<section>
+					<h2>Further Requirements</h2>
+					<h2>(Not all peers are equal)</h2>
+					<br/>
 					
+					<table><tr><td valign="top">
+					<ul>
+						<li>Authentication and Authorisation</li>
+						<li>Management Application to partition content (even adverts)</li>
+						<li>System Monitoring (Wot no tests)</li>
+					</ul>
+					</td><td></td></tr></table>
+				</section>
+				
+				
+				<section>
+					<h2>Further Solutions?</h2>
+					<br/>
+					<ul>
+						<li>User Authentication and Authorisation provided by a central datastore.</li>
+						<li>Content Partitioning dealt with by a kerberosesque cache token based system.</li>
+						<li>Application Level Authorisation provided by keys signed by a certificate authority</li>
+						<li>Monitoring was simply each node reporting status at a given interval with the results aggregated over a time period as a mongo map reduce.</li>
+					</ul>
+				</section>
+				<section>
+					<h2>Lessons</h2>
+					<ul>
+					    <li>Unix philosophy FTW!</li>
+						<li>Mongo disappears. (Deal With It?)</li>
+						<li>LevelDB not remember on the nodes (Why u no windows)</li>
+						<li>Some funnies with reconnect using http fell back to TLS</li>
+						<li>No continuous deployment :( NPM makes you lazy.</li>
+						<li>Performance Driven Development? Yes Please</li>
+						<li>Would love to revisit the central certificate authority and non-repudiation problem</li>
+						
+					</ul>
 				</section>
 			</div>
 			<!-- Presentation progress bar -->
