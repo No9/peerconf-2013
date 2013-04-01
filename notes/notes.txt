@@ -1,0 +1,30 @@
+Bootstrapping 
+
+Start list is a collection of good nodes through activity. 
+If its a new node start list is decimenitated with the the distributable application. 
+
+
+Two dimensional grid si tricky to code an maintain.
+Hypercube is still tricky to maintain 
+Random Network / Small world randomly chosen connections. 
+
+IDEA Random network Game of Life. 
+
+Island are create by netsplits. 
+
+With Node address announcments Network will split if 3.6 connections 5 is best 10 numbers is best. 
+Random walkers 
+Chaos Nets 
+
+Single array of objects. 
+
+Flooding 
+Round based alogrithms 
+Throttlles and 
+Randomised 
+
+Throttled balanced broadcasts uses all of the above. 
+
+Count up to understand the definition. 
+
+
