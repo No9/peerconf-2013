@@ -1,0 +1,64 @@
+
+<html>
+
+<head>
+<META HTTP-EQUIV="Context-Type" CONTEXT="text/html;charset=STANDARD(AUTO)">
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+<title>Peer-to-peer under the hood</title>
+</head>
+
+<BODY     >
+<CENTER>
+<h1>Peer-to-peer under the hood</h1>
+<h4>2005-12-20</h4>
+</center>
+<center>
+ <table width=90%>
+  <tr>
+   <td valign=top align=left width=50%>
+      <h3>Index</h3>
+            <P ALIGN=LEFT><A HREF="sld001.htm">Peer-to-peer under the hood</A></P>
+        <P ALIGN=LEFT><A HREF="sld002.htm">Peer-to-peer under the hood</A></P>
+        <P ALIGN=LEFT><A HREF="sld003.htm">Ideal p2p systems</A></P>
+        <P ALIGN=LEFT><A HREF="sld004.htm">Target applications</A></P>
+        <P ALIGN=LEFT><A HREF="sld005.htm">The Randpeer layer model</A></P>
+        <P ALIGN=LEFT><A HREF="sld006.htm">Bootstrapping</A></P>
+        <P ALIGN=LEFT><A HREF="sld007.htm">Bootstrapping 2</A></P>
+        <P ALIGN=LEFT><A HREF="sld008.htm">Internet problems</A></P>
+        <P ALIGN=LEFT><A HREF="sld009.htm">Two dimensional grid</A></P>
+        <P ALIGN=LEFT><A HREF="sld010.htm">Hypercube</A></P>
+        <P ALIGN=LEFT><A HREF="sld011.htm">Random network(Small world network)</A></P>
+        <P ALIGN=LEFT><A HREF="sld012.htm">Netsplit prevention</A></P>
+        <P ALIGN=LEFT><A HREF="sld013.htm">Flooding / Overloading</A></P>
+        <P ALIGN=LEFT><A HREF="sld014.htm">Throttled balanced broadcasts</A></P>
+        <P ALIGN=LEFT><A HREF="sld015.htm">Throttled balanced broadcasts 2</A></P>
+        <P ALIGN=LEFT><A HREF="sld016.htm">Network statistics</A></P>
+        <P ALIGN=LEFT><A HREF="sld017.htm">Application subnets</A></P>
+        <P ALIGN=LEFT><A HREF="sld018.htm">Service subnets(Rendezvous service)</A></P>
+        <P ALIGN=LEFT><A HREF="sld019.htm">Subnetting overview</A></P>
+        <P ALIGN=LEFT><A HREF="sld020.htm">Subnetting</A></P>
+        <P ALIGN=LEFT><A HREF="sld021.htm">Broadcast search</A></P>
+        <P ALIGN=LEFT><A HREF="sld022.htm">Broadcast search 2</A></P>
+        <P ALIGN=LEFT><A HREF="sld023.htm">Distributed Hash Tables 1</A></P>
+        <P ALIGN=LEFT><A HREF="sld024.htm">Distributed Hash Tables 2</A></P>
+        <P ALIGN=LEFT><A HREF="sld025.htm">Distributed Hash Tables 3 </A></P>
+        <P ALIGN=LEFT><A HREF="sld026.htm">More to come</A></P>
+        <P ALIGN=LEFT><A HREF="sld027.htm">The end</A></P>
+
+   </td>
+   <td valign=top width=50%>
+	 <strong>Författare: </strong>David Göthberg 
+    
+	 <P> <strong>Hemsida: </strong> <A HREF="http://www.randpeer.com">http://www.randpeer.com</A> </P> 
+	
+	
+	
+	
+   </td>
+  </tr>
+ </table>
+</center>
+
+</body>
+
+</html>
